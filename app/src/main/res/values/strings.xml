@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">My Application Try 2</string>
+
+    <!--IMC App-->
     <string name="male">Hombre</string>
     <string name="female">Mujer</string>
     <string name="height">Altura</string>
@@ -22,4 +24,10 @@
 
     <string name="tittle_obesidad">Obesidad</string>
     <string name="description_obesidad">Tu estado esta muy por encima de lo optimo teniendo en cuenta tu peso y altura</string>
+
+    <!--ToDoApp-->
+    <string name="Todo_Title">organize your tasks</string>
+    <string name="Todo_categories">Categories</string>
+    <string name="Todo_Tasks">Tasks</string>
+    <string name="type_Task">Type the task</string>
 </resources>
