@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="160dp"
+    android:id="@+id/viewContainer"
     android:layout_height="90dp"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:Tools="http://schemas.android.com/tools"
