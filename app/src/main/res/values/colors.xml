@@ -29,4 +29,7 @@
     <color name="todo_business_category">#FF9800</color>
     <color name="todo_personal_category">#00BCD4</color>
     <color name="todo_other_category">#4CAF50</color>
+
+    <color name="settings_text_title">#000000</color>
+
 </resources>
